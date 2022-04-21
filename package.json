@@ -21,7 +21,7 @@
     "esprima": "^4.0.0"
   },
   "dependencies": {
-    "chai": "^4.1.2",
+    "chai": "^4.3.6",
     "mocha": "^6.0.0"
   }
 }
